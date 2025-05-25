@@ -10,6 +10,7 @@ public class day36_0{
         int[][] dp = new int[n+1][total];
         int[][] rowValid = new int[total][total];
         List<Integer> good = new ArrayList<>();
+        @SuppressWarnings("unchecked")
         List<Integer>[] pattern = new ArrayList[total];
         for (int i = 0; i < total; i++) pattern[i] = new ArrayList<>();
         for (int i = 0; i < total; i++) {
