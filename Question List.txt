@@ -98,3 +98,5 @@ day 42:
     Path Sum
 day 43: 
     Longest Palindrome by Concatenating Two Letter Words
+day 44:
+    Largest Color Value in a Directed Graph
