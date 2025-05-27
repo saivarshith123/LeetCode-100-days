@@ -100,3 +100,5 @@ day 43:
     Longest Palindrome by Concatenating Two Letter Words
 day 44:
     Largest Color Value in a Directed Graph
+day 45:
+    Divisible and Non-divisible Sums Difference
