@@ -102,3 +102,5 @@ day 44:
     Largest Color Value in a Directed Graph
 day 45:
     Divisible and Non-divisible Sums Difference
+day 46: 
+    Maximize the Number of Target Nodes After Connecting Trees I
