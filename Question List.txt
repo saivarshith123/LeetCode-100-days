@@ -104,3 +104,5 @@ day 45:
     Divisible and Non-divisible Sums Difference
 day 46: 
     Maximize the Number of Target Nodes After Connecting Trees I
+day 47:
+    Maximize the Number of Target Nodes After Connecting Trees II
