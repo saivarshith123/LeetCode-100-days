@@ -25,6 +25,7 @@ public class day47_0 {
         for (int val : result) {
             System.out.print(val + " ");
         }
+        scanner.close();
     }
 
     public int[] maxTargetNodes(int[][] edges1, int[][] edges2) {
@@ -59,6 +60,7 @@ public class day47_0 {
 
     ArrayList<Integer>[] getAdjacency(int[][] edges) {
         int n = edges.length + 1;
+        @SuppressWarnings("unchecked")
         ArrayList<Integer>[] adj = new ArrayList[n];
         for (int i = 0; i < n; i++) {
             adj[i] = new ArrayList<>();
