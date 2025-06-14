@@ -211,3 +211,6 @@ Maximum Difference Between Adjacent Elements in a Circular Array
 
 Day 62: 
 Minimize the Maximum Difference of Pairs
+
+Day 63:
+Maximum Difference by Remapping a Digit
