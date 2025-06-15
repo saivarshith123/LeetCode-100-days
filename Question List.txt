@@ -214,3 +214,6 @@ Minimize the Maximum Difference of Pairs
 
 Day 63:
 Maximum Difference by Remapping a Digit
+
+Day 64: 
+Max Difference You Can Get From Changing an Integer
