@@ -217,3 +217,9 @@ Maximum Difference by Remapping a Digit
 
 Day 64: 
 Max Difference You Can Get From Changing an Integer
+
+Day 65:
+Maximum Difference Between Increasing Elements
+
+Day 66:
+Count the Number of Arrays with K Matching Adjacent Elements
