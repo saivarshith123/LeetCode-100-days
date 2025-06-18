@@ -223,3 +223,6 @@ Maximum Difference Between Increasing Elements
 
 Day 66:
 Count the Number of Arrays with K Matching Adjacent Elements
+
+Day 67:
+Divide Array Into Arrays With Max Difference
