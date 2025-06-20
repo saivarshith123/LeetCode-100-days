@@ -229,3 +229,8 @@ Divide Array Into Arrays With Max Difference
 
 Day 68:
 Partition Array Such That Maximum Difference Is K
+
+Spiral Matrix II
+
+Day 69:
+Maximum Manhattan Distance After K Changes
