@@ -234,3 +234,6 @@ Spiral Matrix II
 
 Day 69:
 Maximum Manhattan Distance After K Changes
+
+Day 70:
+Minimum Deletions to Make String K-Special
